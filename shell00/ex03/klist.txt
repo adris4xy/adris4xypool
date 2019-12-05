@@ -1,0 +1,7 @@
+Credentials cache: API:4626
+        Principal: aortega-@42MADRID.COM
+
+  Issued                Expires               Principal
+Sep 30 14:43:37 2019  Oct  1 00:43:37 2019  krbtgt/42MADRID.COM@42MADRID.COM
+Sep 30 14:43:39 2019  Oct  1 00:43:37 2019  HTTP/student-storage.42madrid.com@42MADRID.COM
+Sep 30 16:48:57 2019  Oct  1 00:43:37 2019  host/vogsphere.42madrid.com@42MADRID.COM
